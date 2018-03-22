@@ -2,7 +2,7 @@
 
 raycasting mignon
 
-![screenshot](wolf.png?raw=true)
+![screenshot](wolf3d.png?raw=true)
 
 wasd + mouse
 
